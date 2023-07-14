@@ -1,0 +1,19 @@
+.container {
+    top: 25vh;
+    left: 13vh;
+}
+.box{
+    margin: 45px 0px;
+    padding: 3px;
+    width: 60%;
+    color:white;
+}
+.box input {
+    font-size: 26px;
+    color:orange;
+}
+@media screen and (max-width:527px){
+    body {
+        background-size: 100% 100%;
+    }
+}
